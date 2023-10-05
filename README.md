@@ -54,7 +54,7 @@ Usage: `monty file`
         When switching mode:
 
         The top of the stack becomes the front of the queue
-        The front of the queue becomes the top of the stack
+        The front of the queue becomes the top of the stack.
 
 ## BRAIN F*CK
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller.
